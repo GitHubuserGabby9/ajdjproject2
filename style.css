@@ -1,0 +1,50 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_youre
+{
+    float:left;
+}
+
+.div_youre_img
+{
+    width:200px;
+    border-radius:100px
+}
+
+#youre
+{
+    font-size:23px;
+    margin:15px;
+}
+
+.div_swift
+{
+    float:right;
+}
+
+.div_swift_img
+{
+    width:200px;
+    border-radius:100px
+}
+
+#swift
+{
+    font-size:23px;
+    margin:15px;
+}
